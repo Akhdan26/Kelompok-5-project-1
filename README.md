@@ -22,9 +22,9 @@
 - EMAIL : bahrulahmad836@gmail.com
 
 ## anggota 3
-- NAMA  : 
-- NIM   : 
+- NAMA  : Reza Febriansyah
+- NIM   : 1841720120
 - KELAS : TI-2A
-- ABSEN : 
-- NO.HP : 
-- EMAIL : 
+- ABSEN : 24
+- NO.HP : 085646675326
+- EMAIL : rezafebriansyah149@gmail.com
