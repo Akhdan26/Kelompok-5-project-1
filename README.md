@@ -13,12 +13,12 @@ ABSEN : 21
 NO.HP : 085331066533
 EMAIL : akhdanx@gmail.com
 anggota 2
-NAMA : 
-NIM : 
+NAMA : Ahmad Bahrul Ulum
+NIM : 1841720150
 KELAS : TI-2A
-ABSEN : 
-NO.HP : 
-EMAIL : 
+ABSEN : 05
+NO.HP : 081235317053
+EMAIL : bahrulahmad836@gmail.com
 anggota 3
 NAMA : 
 NIM : 
