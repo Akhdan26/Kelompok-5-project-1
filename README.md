@@ -28,3 +28,10 @@
 - ABSEN : 24
 - NO.HP : 085646675326
 - EMAIL : rezafebriansyah149@gmail.com
+
+## Ide proyek 1 Kelompok 5
+- [ ] Sistem distribusi susu sapi agar optimal (kud batu pujon)
+- [ ] Sistem distribusi daging qurban agar efisien (masjid villa sengkaling)
+- [ ] Beli kebutuhan rumah, misal kebutuhan dapur. Tiap rumah di kawasan elit pasti mempunyai waktu yg sedikit untuk pergi belanja, kita membuat aplikasi belanja, jadi tiap rumah yg ingin belanja cukup pesan melalui aplikasi dan akan ada orang yg datang mengantarkan pesanannya. (Permata jingga)
+- [ ] Sistem distribusi hasil tani
+- [ ] Sistem parkir polinema
