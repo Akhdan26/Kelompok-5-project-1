@@ -32,6 +32,29 @@
 ## Ide proyek 1 Kelompok 5
 - [ ] Sistem distribusi susu sapi agar optimal (kud batu pujon)
 - [ ] Sistem distribusi daging qurban agar efisien (masjid villa sengkaling)
-- [ ] Beli kebutuhan rumah, misal kebutuhan dapur. Tiap rumah di kawasan elit pasti mempunyai waktu yg sedikit untuk pergi belanja, kita membuat aplikasi belanja, jadi tiap rumah yg ingin belanja cukup pesan melalui aplikasi dan akan ada orang yg datang mengantarkan pesanannya. (Permata jingga)
+- [ ] Shoetrees Malang
 - [ ] Sistem distribusi hasil tani
+- [ ] Warkop Cak Dji
 - [ ] Sistem parkir polinema
+
+## Ide yang fix akan diambil
+- [] Shoetrees Malang (Cuci Sepatu)
+- [] Warkop Cak Dji
+
+### Permasalahan pada Shoetrees Malang (observasi hari Rabu, 12 Februari 2020)
+- Kesulitan dalam pemesanan jasa cuci sepatu
+- Pemasaran Shoetrees kurang maksimal
+- Pembukuan yang masih belum tertata
+
+### Permintaan dari pihak Shoetrees Malang
+- Pembuatan web interactive
+- Aplikasi Pembukuan
+
+### Permasalahan pada Warkop Cak Dji (Observasi hari Kamis, 13 Februari 2020)
+- kesulitan dalam mengatur stock 
+- Pembukuan yang masih belum tertata
+- Pemesanan ruang rapat agar lebih mudah
+
+### permintaan dari pihak Warkop Cak Dji
+- pembuatan web untuk reservasi tempat
+- aplikasi mobile untuk stock
