@@ -58,3 +58,14 @@
 ### permintaan dari pihak Warkop Cak Dji
 - pembuatan web untuk reservasi tempat
 - aplikasi mobile untuk stock
+
+### Tempat yang fix diambil Warkop Cak Dji
+Dengan mempertimbangkan berbagai hal kami memilih Warkop Cak Dji sebagai project yang kami kerjakan.
+
+# Fitur web yang akan kami tawarkan
+- Update stok
+- Reservasi tempat
+- akun member
+- POS didalam web
+- Google maps
+- Display menu
