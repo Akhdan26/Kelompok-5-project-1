@@ -69,3 +69,8 @@ Dengan mempertimbangkan berbagai hal kami memilih Warkop Cak Dji sebagai project
 - POS didalam web
 - Google maps
 - Display menu
+
+# Fitur web yang sudah berhasil dibuat
+- Reservasi Tempat
+- Display menu
+- Akun Member
